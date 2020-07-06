@@ -1,0 +1,8 @@
+[21-Feb-2020 19:50:39] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[21-Feb-2020 19:55:25] [localhost/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[21-Feb-2020 20:00:26] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[21-Feb-2020 20:00:34] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[21-Feb-2020 20:01:12] [localhost/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[21-Feb-2020 20:01:40] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
+[21-Feb-2020 20:02:04] [localhost/proiectoop/post_inregistrare.php] : [INFO] - Success inregistrare Ip utilizator: ::1
+[21-Feb-2020 20:02:50] [localhost/proiectoop/inregistrare.php] : [INFO] - Ip utilizator: ::1
