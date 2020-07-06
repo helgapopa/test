@@ -17,7 +17,7 @@ if (session_status() == PHP_SESSION_NONE) {
 <?php include('layout/meniu.php');?>
         <div class="card bg-light">
             <article class="card-body mx-auto" style="max-width: 600px;">
-                <h4 class="card-title mt-3 text-center">Adauga carte</h4>
+                <h4 class="card-title mt-3 text-center">Add Book</h4>
                 <form action="http://localhost/proiectoop/post.php" method="post" enctype="multipart/form-data"> 
                     <div class="form-group input-group">
                         <div class="input-group-prepend">
